@@ -1,2 +1,4 @@
 ScreenshotTool--Nightwatchjs
+
+Screenshots
 ============================
